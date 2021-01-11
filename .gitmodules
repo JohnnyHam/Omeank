@@ -1,0 +1,3 @@
+[submodule "Omeank/vendor/spdlog"]
+	path = Omeank/vendor/spdlog
+	url = https://github.com/gabime/spdlog
